@@ -15,12 +15,12 @@ public class smokeTests {
 	@Test
 	public static void smoke_test_1()
 	{
-		System.out.println("Smoke is done");
+		System.out.println("Smoke is done MADE CHANGES NOW THAT SHOOULD BE visible in git");
 	}
 	
 	@Test
 	public static void RegressionTest3() 
 	{
-		System.out.println("all are running through jenkins  Smoke is done 3rd time");
+		System.out.println("all are running through jenkinsSmoke is done 3rd time");
 	}
 }
