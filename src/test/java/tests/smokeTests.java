@@ -23,4 +23,12 @@ public class smokeTests {
 	{
 		System.out.println("all are running through jenkinsSmoke is done 3rd time");
 	}
+	
+	
+	@Test
+	public static void NewRegressionMain() 
+	{
+		System.out.println("***********************");
+	}
+	
 }
